@@ -27,5 +27,3 @@ loadstring(game:HttpGet("https://githubusercontent.com"))()
 ---
 
 ## 🛠️ Contribution & Preservation
-
-If you have other missing versions of Orca, related assets, or documentation from richie0866's original repositories, feel free to open a Pull Request or file an Issue to add them to this archive. 
